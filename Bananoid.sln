@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Bananoid", "Bananoid\Bananoid.vcproj", "{15229B70-B64E-4FBE-BBD8-7A83693C85FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|SDK_HL_1303 (ARMV4I) = Debug|SDK_HL_1303 (ARMV4I)
+		Release|SDK_HL_1303 (ARMV4I) = Release|SDK_HL_1303 (ARMV4I)
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15229B70-B64E-4FBE-BBD8-7A83693C85FC}.Debug|SDK_HL_1303 (ARMV4I).ActiveCfg = Debug|SDK_HL_1303 (ARMV4I)
+		{15229B70-B64E-4FBE-BBD8-7A83693C85FC}.Debug|SDK_HL_1303 (ARMV4I).Build.0 = Debug|SDK_HL_1303 (ARMV4I)
+		{15229B70-B64E-4FBE-BBD8-7A83693C85FC}.Debug|SDK_HL_1303 (ARMV4I).Deploy.0 = Debug|SDK_HL_1303 (ARMV4I)
+		{15229B70-B64E-4FBE-BBD8-7A83693C85FC}.Release|SDK_HL_1303 (ARMV4I).ActiveCfg = Release|SDK_HL_1303 (ARMV4I)
+		{15229B70-B64E-4FBE-BBD8-7A83693C85FC}.Release|SDK_HL_1303 (ARMV4I).Build.0 = Release|SDK_HL_1303 (ARMV4I)
+		{15229B70-B64E-4FBE-BBD8-7A83693C85FC}.Release|SDK_HL_1303 (ARMV4I).Deploy.0 = Release|SDK_HL_1303 (ARMV4I)
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
