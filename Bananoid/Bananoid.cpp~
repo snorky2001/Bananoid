@@ -33,7 +33,6 @@ CBananoidApp::CBananoidApp()
 {
 	// TODO: add construction code here,
 	// Place all significant initialization in InitInstance
-
 }
 
 
@@ -44,20 +43,6 @@ CBananoidApp theApp;
 
 BOOL CBananoidApp::InitInstance()
 {
-    BanaWorld world;
-    BanaObject obj1, obj2;
-    BanaShapeCircle c1("C1"), c2("C2");
-    BanaShapeRect r1("R1"), r2("R2");
-
-    obj1.AddShape(c1);
-    obj1.AddShape(r1);
-    obj2.AddShape(c2);
-    obj2.AddShape(r2);
-
-    world.AddObject(obj1);
-    world.AddObject(obj2);
-
-    world.Collide();
 
 	// Standard initialization
 	// If you are not using these features and wish to reduce the size
