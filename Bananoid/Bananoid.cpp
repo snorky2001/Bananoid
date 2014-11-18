@@ -120,3 +120,4 @@ void CBananoidApp::OnAppAbout()
 	CAboutDlg aboutDlg;
 	aboutDlg.DoModal();
 }
+

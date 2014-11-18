@@ -45,6 +45,7 @@
 				Name="VCCLCompilerTool"
 				ExecutionBucket="7"
 				Optimization="0"
+				AdditionalIncludeDirectories="$(SolutionDir)"
 				PreprocessorDefinitions="_DEBUG;_WIN32_WCE=$(CEVER);UNDER_CE;WINCE;DEBUG;$(ARCHFAM);$(_ARCHFAM_);STANDARDSHELL_UI_MODEL"
 				MinimalRebuild="true"
 				RuntimeLibrary="1"
@@ -67,7 +68,9 @@
 			<Tool
 				Name="VCLinkerTool"
 				AdditionalOptions=" /subsystem:windowsce,6.00"
+				AdditionalDependencies="Box2D.lib"
 				LinkIncremental="2"
+				AdditionalLibraryDirectories="C:\gderoire\test\2014\Bananoid\Box2D\SDK_HL_1303 (ARMV4I)\Debug"
 				GenerateDebugInformation="true"
 				StackReserveSize="65536"
 				StackCommitSize="4096"
