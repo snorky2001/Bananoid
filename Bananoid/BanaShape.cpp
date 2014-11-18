@@ -1,3 +1,4 @@
+#include "stdafx.h"
 #include "BanaShape.h"
 
 BanaShape::BanaShape(std::string name) :m_Name(name)

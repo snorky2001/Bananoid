@@ -220,6 +220,26 @@
 				>
 			</File>
 			<File
+				RelativePath=".\BanaObject.cpp"
+				>
+			</File>
+			<File
+				RelativePath=".\BanaShape.cpp"
+				>
+			</File>
+			<File
+				RelativePath=".\BanaShapeCircle.cpp"
+				>
+			</File>
+			<File
+				RelativePath=".\BanaShapeRect.cpp"
+				>
+			</File>
+			<File
+				RelativePath=".\BanaWorld.cpp"
+				>
+			</File>
+			<File
 				RelativePath=".\Block.cpp"
 				>
 			</File>
@@ -275,6 +295,26 @@
 			</File>
 			<File
 				RelativePath=".\BananoidView.h"
+				>
+			</File>
+			<File
+				RelativePath=".\BanaObject.h"
+				>
+			</File>
+			<File
+				RelativePath=".\BanaShape.h"
+				>
+			</File>
+			<File
+				RelativePath=".\BanaShapeCircle.h"
+				>
+			</File>
+			<File
+				RelativePath=".\BanaShapeRect.h"
+				>
+			</File>
+			<File
+				RelativePath=".\BanaWorld.h"
 				>
 			</File>
 			<File

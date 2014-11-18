@@ -1,3 +1,5 @@
+#include "stdafx.h"
+
 #include "BanaShapeRect.h"
 
 #include <iostream>
